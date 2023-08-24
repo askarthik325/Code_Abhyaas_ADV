@@ -17,7 +17,8 @@ void sorted(int arr[],int n){
         cout << "Array is Sorted..!";
     }
     else{
-        cout << "Array is not Sorted..!";
+        cout << "Array is not Sorted...!";
+        
     }
 
 }
