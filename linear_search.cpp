@@ -1,3 +1,4 @@
+// linear search program
 #include<bits/stdc++.h>
 using namespace std;
 int l_search(int arr[],int n,int x){
